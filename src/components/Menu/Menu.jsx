@@ -3,7 +3,7 @@ import MenuItem from './MenuItem.jsx';
 import MenuIcon from "../../assets/iconos/menu.svg";
 import UbiIcon from "../../assets/iconos/ubi.svg";
 import WhatsApp from "../../assets/iconos/whatsapp.svg";
-import "./Menu.css"
+import "./Menu.css";
 
 const NavBar = () => {
     return(
